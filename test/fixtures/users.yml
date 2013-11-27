@@ -1,8 +1,8 @@
 diyar:
-	first_name: "Diyar"
-	last_name: "Can"
-	email: 'diyar.can1@gmail.com'
-	profile_name: 'dcan'
-	password: "password"
-	password_confirmation: "password"
+  first_name: "Diyar"
+  last_name: "Can"
+  email: "diyar.can1@gmail.com"
+  profile_name: "dcan"
+
+
 
